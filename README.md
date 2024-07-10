@@ -27,7 +27,7 @@ pip install matplotlib numpy statsmodels scipy
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/jovanthompsonmds/Data-Mining-Design-Using-CRISP-DM.git
+git clone https://github.com/jovanthompsonmds/Linear-Regression-Data-Mining-Design-Using-CRISP-DM.git
 
 2. Open the Jupyter Notebook and run the code to:
 - Load the data
